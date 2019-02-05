@@ -1,10 +1,15 @@
 # Ahmed Magdy 👋
 
-<p align="center"><img src="https://s.gravatar.com/avatar/6d4f10264f24a7c9496530b9a764aab8?s=300" width="300"></p>
-
-My name is Ahmed Magdy, I'm software engineer 👨‍💻 with 15+ years of experience in many areas like web development, solution architecture, consulting, cloud architect and more.
+<table border="0">
+  <tr>
+    <td style="vertical-align:top">
+   My name is Ahmed Magdy, I'm software engineer 👨‍💻 with 15+ years of experience in many areas like web development, solution architecture, consulting, cloud architect and more.
 
 Currently working as [Premier Field Engineer](https://blogs.msdn.microsoft.com/granth/2012/07/02/what-does-a-premier-field-engineer-pfe-do-anyway/) Developer at [Microsoft](https://www.microsoft.com/)
+   </td>
+    <td width="220"><img src="https://s.gravatar.com/avatar/6d4f10264f24a7c9496530b9a764aab8?s=200" width="200"></td>
+  </tr>
+</table>
 
 
 ## Find me online
