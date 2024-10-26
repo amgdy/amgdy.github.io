@@ -1,0 +1,28 @@
+.navbar {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+@media screen and (max-width: 1280px) {
+    .navbar {
+        padding-left: 20px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .navbar {
+        max-width: 1200px;
+    }
+}
+
+.navbar-link {
+    display: inline-block;
+    margin-right: 40px;
+}
+
+.navbar-link a {
+    font-weight: 300;
+    font-size: 20px;
+    color: #80381a;
+    text-decoration: none;
+}
