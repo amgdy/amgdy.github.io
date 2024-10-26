@@ -10,3 +10,6 @@ This repository is built using [ReactJS](https://reactjs.org/) and is published 
 ## Deployment
 
 The website is automatically deployed to GitHub Pages whenever changes are pushed to the main branch.
+
+
+_Inspired by [michaeldfaber/michaeldfaber.github.io](https://github.com/michaeldfaber/michaeldfaber.github.io)_
