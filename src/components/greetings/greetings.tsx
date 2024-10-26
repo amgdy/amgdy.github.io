@@ -16,7 +16,7 @@ export class Greeting extends Component {
                     My name is <b>Ahmed Magdy</b>.
                 </div>
                 <div className="greeting-body">
-                    <p>Azure Technology Specialist <SiMicrosoftazure /> for Digial and App Innovation at <span><FaMicrosoft /></span> <a href="https://www.microsoft.com/"> Microsoft</a>.</p>
+                    <p>Azure Technology Specialist <SiMicrosoftazure /> for Digital and App Innovation at <span><FaMicrosoft /></span> <a href="https://www.microsoft.com/"> Microsoft</a>.</p>
                     <p>I'm an Azure Technology Specialist and Cloud Solutions Architect with over 20 years of experience in software engineering, solution architecture, presales, and AI integration.
                         <br />
                         I help businesses use Microsoft Azure, AI, and DevOps tools to solve technical challenges. I'm passionate about innovation, problem-solving, and finding the best solutions to make work easier, smarter and faster.
